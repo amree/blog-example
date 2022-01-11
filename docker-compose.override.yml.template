@@ -1,0 +1,5 @@
+services:
+  base_web:
+    build:
+      args:
+        - BUNDLE_ENTERPRISE__CONTRIBSYS__COM=username:password

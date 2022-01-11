@@ -1,0 +1,3 @@
+/.env.development
+/build_credentials
+/docker-compose.override.yml
