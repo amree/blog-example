@@ -13,7 +13,7 @@ services:
       - redis:/data
 
   chrome:
-    image: blog_base
+    image: blog_example
     command: bash -c "/usr/bin/true"
     ports:
       - "31337:31337"
